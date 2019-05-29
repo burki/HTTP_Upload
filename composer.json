@@ -44,6 +44,6 @@
         }
     ],
     "require": {
-        "pear-pear.php.net/PEAR": "v1.10.1"
+        "pear/pear-core-minimal": "v1.10.1"
     }
 }
